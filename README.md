@@ -1,6 +1,6 @@
 # student-register-application
 
-This is Spring Boot CRUD REST API Project, build using IntelliJ IDEA as ide. Project is to create student register application backend.
+This is Spring Boot CRUD REST API Project, build using IntelliJ IDEA as ide. Created student register application backend.
 Spring boot dependencies used:
   Spring Web, Lombok, Spring Data JPA, MySQL Driver.
   
