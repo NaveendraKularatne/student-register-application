@@ -2,10 +2,7 @@
 
 This is Spring Boot CRUD REST API Project, build using IntelliJ IDEA as ide. Project is to create student register application backend.
 Spring boot dependencies used:
-  Spring Web
-  Lombok
-  Spring Data JPA
-  MySQL Driver
+  Spring Web, Lombok, Spring Data JPA, MySQL Driver.
   
   ![image](https://user-images.githubusercontent.com/44170368/198697770-8f0620a0-aa9c-4c31-8df8-107846ffce2b.png)
 ↑ Getting database entries
